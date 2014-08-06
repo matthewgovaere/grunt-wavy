@@ -1,4 +1,4 @@
-# grunt-wavy
+# grunt-wavy [![Build Status](https://travis-ci.org/matthewgovaere/grunt-wavy.svg?branch=master)](https://travis-ci.org/matthewgovaere/grunt-wavy)
 
 > Convert [Wavy](http://wavy.it) to HTML
 
