@@ -1,0 +1,3 @@
+<div class="recursive">
+    @include multiple(Child Test)
+</div>

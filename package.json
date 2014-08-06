@@ -1,0 +1,55 @@
+{
+  "name": "grunt-wavy",
+  "description": "Convert Wavy to HTML",
+  "version": "0.1.0",
+  "homepage": "https://github.com/matthewgovaere/grunt-wavy",
+  "author": {
+    "name": "Matthew Govaere",
+    "email": "matthew.govaere@gmail.com",
+    "url": "http://matthewgovaere.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matthewgovaere/grunt-wavy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matthewgovaere/grunt-wavy/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/matthewgovaere/grunt-wavy/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "dargs": "~0.1.0",
+    "async": "~0.2.9",
+    "chalk": "~0.4.0",
+    "win-spawn": "~2.0.0",
+    "which": "~1.0.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin",
+    "wavy",
+    "html",
+    "template",
+    "engine",
+    "compile",
+    "preprocessor"
+  ]
+}

@@ -1,0 +1,3 @@
+<div class="recursive">
+    @include test(Parent Test)
+</div>

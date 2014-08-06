@@ -1,0 +1,11 @@
+@mixin test($label) {
+    <div>
+    {$label}
+    </div>
+}
+
+@mixin multiple($label) {
+    <div>
+    {$label}
+    </div>
+}
